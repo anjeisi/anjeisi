@@ -11,9 +11,8 @@
 
 <h3>✨About Me✨</h3>
 
-- 🔭 I’m currently working on
-- 🌱 I’m from the Dominican Republic
 - 🌼 Front-End Developer
+- 🌱 I’m from the Dominican Republic
 - 💃 My hobbies are dancing and drawing
 - 🎓 I’m currently studying at [Instituto Tecnológico de Las Américas (ITLA)](https://itla.edu.do/)
 - 📫 Email <a href="anjeisiacostacarvajal@gmail.com">anjeisiacostacarvajal@gmail.com</a>
@@ -43,8 +42,8 @@
 
 <a href="https://t.me/Echi_xi"><img width='65px' src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo.png" alt="Foto"></a> 
 <a href="https://www.instagram.com/echi_xi/"><img width='65px' src="https://logos-world.net/wp-content/uploads/2020/06/Instagram-Logo-700x394.png" alt="Foto"></a>
-<a href="#"><img width='70px' src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011-2019.png" alt="Foto"></a>
-<a href="https://www.facebook.com/anjeisi.iac.7?mibextid=ZbWKwL"><img width='70px' src="https://logos-world.net/wp-content/uploads/2020/04/Facebook-Logo.png" alt="Foto"></a>
+<a href="https://youtube.com/@anjeisiacosta4534"><img width='70px' src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png" alt="Foto">
+</a>
 
 &nbsp;
 
