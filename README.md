@@ -42,7 +42,6 @@
 
 <a href="https://t.me/Echi_xi"><img width='65px' src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo.png" alt="Foto"></a> 
 <a href="https://www.instagram.com/echi_xi/"><img width='65px' src="https://logos-world.net/wp-content/uploads/2020/06/Instagram-Logo-700x394.png" alt="Foto"></a>
-<a href="https://youtube.com/@anjeisiacosta4534"><img width='70px' src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png" alt="Foto">
 </a>
 
 &nbsp;
