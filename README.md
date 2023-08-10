@@ -8,8 +8,9 @@
 </div>
 
 &nbsp;
+
 <h3>✨About Me✨</h3>
-&nbsp;
+
 - 🔭 I’m currently working on
 - 🌱 I’m from the Dominican Republic
 - 🌼 Front-End Developer
@@ -21,8 +22,9 @@
 - 💖 My Portfolio: 
   
 &nbsp;
+
 <h3>✨Programing Languages and Tools✨</h3> 
-&nbsp;
+
 <div align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/ width="40">
@@ -36,8 +38,8 @@
 </div>
 
 &nbsp;
+
 <h3>✨Social Media✨</h3>
-&nbsp;
 
 <a href="https://t.me/Echi_xi"><img width='65px' src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo.png" alt="Foto"></a> 
 <a href="https://www.instagram.com/echi_xi/"><img width='65px' src="https://logos-world.net/wp-content/uploads/2020/06/Instagram-Logo-700x394.png" alt="Foto"></a>
@@ -45,7 +47,7 @@
 <a href="https://www.facebook.com/anjeisi.iac.7?mibextid=ZbWKwL"><img width='70px' src="https://logos-world.net/wp-content/uploads/2020/04/Facebook-Logo.png" alt="Foto"></a>
 
 &nbsp;
+
 <h3>✨Stats✨</h3>
-&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjeisi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjeisi&show_icons=true&theme=default)
