@@ -26,7 +26,7 @@
 ## :computer: ✨Programing Languages and Tools✨   
 
 <div align="left">
-  
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/ width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/ width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/ width="40">
@@ -43,8 +43,8 @@
 
 <a href="https://t.me/Echi_xi"><img width='65px' src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo.png" alt="Foto"></a> 
 <a href="https://www.instagram.com/echi_xi/"><img width='65px' src="https://logos-world.net/wp-content/uploads/2020/06/Instagram-Logo-700x394.png" alt="Foto"></a>
-<a href="#"><img width='65px' src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011-2019.png" alt="Foto"></a>
-<a href="https://www.facebook.com/anjeisi.iac.7?mibextid=ZbWKwL"><img width='65px' src="https://logos-world.net/wp-content/uploads/2020/04/Facebook-Logo.png" alt="Foto"></a>
+<a href="#"><img width='70px' src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011-2019.png" alt="Foto"></a>
+<a href="https://www.facebook.com/anjeisi.iac.7?mibextid=ZbWKwL"><img width='70px' src="https://logos-world.net/wp-content/uploads/2020/04/Facebook-Logo.png" alt="Foto"></a>
 
 &nbsp;
 
