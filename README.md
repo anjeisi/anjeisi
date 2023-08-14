@@ -1,10 +1,6 @@
 <div id="header" align="center" >
   <img width="100" src="https://media.giphy.com/media/csYkWsVSZTzcSSU7oA/giphy.gif" alt="">
    <h1 align="center">Hi👋, I’m 🎆Anjeisi🎆</h1>
-   <h3 align="center">Software Development student, creative, empathetic, committed, I know how to work in a team, 
-                     I am interested in the area of Desktop Application                             
-                     Development and Web Development; I am passionate, I am constantly growing and learning.
-   </h3>
 </div>
 
 &nbsp;
