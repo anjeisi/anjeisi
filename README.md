@@ -14,10 +14,10 @@
 - 🌼 Front-End Developer
 - 🌱 I’m from the Dominican Republic
 - 💃 My hobbies are dancing and drawing
-- 🎓 I’m currently studying at [Instituto Tecnológico de Las Américas (ITLA)](https://itla.edu.do/)
-- 📫 Email <a href="anjeisiacostacarvajal@gmail.com">anjeisiacostacarvajal@gmail.com</a>
 - 🍥 Pronouns Echiii
 - 🐶 Fun fact I love dogs
+- 🎓 I’m currently studying at [Instituto Tecnológico de Las Américas (ITLA)](https://itla.edu.do/)
+- 📫 Email <a href="anjeisiacostacarvajal@gmail.com">anjeisiacostacarvajal@gmail.com</a>
 - 💖 My Portfolio: <a href="https://anjeisi.github.io">https://anjeisi.github.io</a>
   
 &nbsp;
