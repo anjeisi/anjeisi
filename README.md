@@ -22,13 +22,14 @@
 
 <div align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/ width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/ width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/ width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/ width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/ width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/ width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"/ width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40"/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40"/>
   </a>
 </div>
 
@@ -36,8 +37,17 @@
 
 <h3>✨Social Media✨</h3>
 
-<a href="https://t.me/Echi_xi"><img width='65px' src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo.png" alt="Foto"></a> 
-<a href="https://www.instagram.com/echi_xi/"><img width='65px' src="https://logos-world.net/wp-content/uploads/2020/06/Instagram-Logo-700x394.png" alt="Foto"></a>
+<a href="mailto:anjeisiacostacarvajal@gmail.com">
+  <img width='65px' src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail" alt="Foto">
+</a> 
+<a href="www.linkedin.com/in/anjeisiacostacarvajal">
+  <img width='65px' src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Foto">
+</a>
+<a href="https://t.me/Echi_xi">
+  <img width='65px' src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo.png" alt="Foto">
+</a> 
+<a href="https://www.instagram.com/echi_xi/">
+  <img width='65px' src="https://logos-world.net/wp-content/uploads/2020/06/Instagram-Logo-700x394.png" alt="Foto">
 </a>
 
 &nbsp;
