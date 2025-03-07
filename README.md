@@ -35,7 +35,10 @@
 &nbsp;
 
 <h3>✨Social Media✨</h3>
- 
+
+ <a href="http://www.linkedin.com/in/anjeisiacostacarvajal">
+  <img width='65px' src="https://logos-world.net/linkedin-logo/" alt="Foto">
+</a>
 <a href="https://www.instagram.com/anjeisi_acosta/">
   <img width='65px' src="https://logos-world.net/wp-content/uploads/2020/06/Instagram-Logo-700x394.png" alt="Foto">
 </a>
