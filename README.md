@@ -12,7 +12,9 @@
 - 💃 My hobbies are dancing and drawing
 - 🍥 Pronouns Echiii
 - 🐶 Fun fact I love dogs
-- 🎓 I’m currently studying at [Instituto Tecnológico de Las Américas (ITLA)](https://itla.edu.do/)
+- 🎓 I’m currently studying at [Universidad del Caribe (UNICARIBE)](https://unicaribe.edu.do/)
+- 👩🏻‍🎓 Graduated from [Instituto Tecnológico de Las Américas (ITLA)](https://itla.edu.do/)
+
 - 📫 Email <a href="anjeisiacostacarvajal@gmail.com">anjeisiacostacarvajal@gmail.com</a>
   
 &nbsp;
